@@ -34,12 +34,11 @@ This section describes actions to keep in mind while developing.
 
 ### Change Size
 
-Please try to keep changes small to make reviews easier. We will reject more
-extensive unless there is a valid reason.
+Unless there is no way to break up the changes, we will reject large PRs.
 
 ### Formatting and Cleanliness
 
-Please ensure your code is formatted and clippy gives no warnings.
+Please ensure your code is formatted and the formatting tool gives no warnings.
 
 ## PRs
 
@@ -57,3 +56,4 @@ For creating the PR, please follow the instructions below.
    - [jamesondh](https://github.com/jamesondh)
    - [mariocao](https://github.com/mariocao)
    - [mennatabuelnaga](https://github.com/mennatabuelnaga)
+   - [Thomasvdam](https://github.com/Thomasvdam)

@@ -1,0 +1,25 @@
+---
+name:  🧹 Chore
+about: Submit a new feature request
+title: "🧹 [Chore]"
+labels: 'type: chore'
+---
+
+## 🧹 Chore
+
+<!--
+    Is there some dirty code? Some minor change that wasn't done before? Or other small misc. tasks? Write them here.
+-->
+
+(Write what chore needs to be done)
+
+## Motivation
+
+<!--
+    Why should this change be made?
+-->
+
+(Outline your motivation here)
+
+**Are you willing to open a pull request?** (See
+[CONTRIBUTING](../../CONTRIBUTING.md))

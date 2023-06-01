@@ -1,11 +1,11 @@
 ---
-name: 🐛 Bug Report
+name: 🐞 Bug Report
 about: Submit a bug report if something isn't working
-title: "[Bug]"
-labels: bug
+title: "🐞 [Bug]"
+labels: 'type: bug 🐞'
 ---
 
-## 🐛 Bug Report
+## 🐞 Bug Report
 
 <!--
     What's the bug in **the-repo-name** that you found?

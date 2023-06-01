@@ -1,15 +1,15 @@
 ---
 name:  🚀 Feature
 about: Submit a new feature request
-title: "[Feat]"
-labels: feat
+title: "🚀 [Feat]"
+labels: 'type: feature'
 ---
 
 ## 🚀 Feature
 
 <!--
     What is the feature you would like to see in **the-repo-name**?
-    Is this related to a SIP? If so please link it!
+    Is this related to a SIP? If so, please link it!
 -->
 
 (Write your description here)

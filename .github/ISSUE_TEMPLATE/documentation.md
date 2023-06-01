@@ -1,15 +1,15 @@
 ---
 name: 📚 Documentation
 about: Report an issue related to documentation
-title: "[Docs]"
-labels: docs
+title: "📚 [Docs]"
+labels: 'type: documentation'
 ---
 
 ## 📚 Documentation
 
 <!--
     Did you find a mistake in the documentation?
-    Is there documentation that's missing?
+    Is there missing documentation?
 -->
 
 (Write your answer here.)

@@ -29,7 +29,7 @@
 
 <!--
     Please link to any relevant Issues and PRs.
-    Also please link to any relevant SIPs.
+    Also, please link to any relevant SIPs.
 -->
 
 (Link your related PRs and Issues here)
