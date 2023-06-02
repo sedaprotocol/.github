@@ -1,11 +1,11 @@
 ---
-name:  🧰 Refactor
+name: ♻️ Refactor
 about: Submit a new feature request
-title: "🧰 [Refactor]"
-labels: 'type: refactor'
+title: "♻️[Refactor]"
+labels: 'type: refactor ♻️'
 ---
 
-## 🧰 Refactor
+## ♻️ Refactor
 
 <!--
     What needs to be refactored in **the-repo-name**?

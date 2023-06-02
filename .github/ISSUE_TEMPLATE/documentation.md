@@ -1,8 +1,8 @@
 ---
 name: 📚 Documentation
 about: Report an issue related to documentation
-title: "📚 [Docs]"
-labels: 'type: documentation'
+title: "📚[Docs]"
+labels: 'type: documentation 📚'
 ---
 
 ## 📚 Documentation

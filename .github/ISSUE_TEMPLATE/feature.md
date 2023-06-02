@@ -1,11 +1,11 @@
 ---
-name:  🚀 Feature
+name: ✨ Feature
 about: Submit a new feature request
-title: "🚀 [Feat]"
-labels: 'type: feature'
+title: "✨[Feat]"
+labels: 'type: feature ✨'
 ---
 
-## 🚀 Feature
+## ✨ Feature
 
 <!--
     What is the feature you would like to see in **the-repo-name**?

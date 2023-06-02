@@ -1,11 +1,11 @@
 ---
-name:  🧹 Chore
+name: 🔧 Chore
 about: Submit a new feature request
-title: "🧹 [Chore]"
-labels: 'type: chore'
+title: "🔧[Chore]"
+labels: 'type: chore 🔧'
 ---
 
-## 🧹 Chore
+## 🔧 Chore
 
 <!--
     Is there some dirty code? Some minor change that wasn't done before? Or other small misc. tasks? Write them here.
