@@ -1,7 +1,7 @@
 ---
 name: 🔧 Chore
 about: Submit a new feature request
-title: "🔧[Chore]"
+title: "🔧 "
 labels: 'type: chore 🔧'
 ---
 

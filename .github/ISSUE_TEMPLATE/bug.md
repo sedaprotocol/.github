@@ -1,7 +1,7 @@
 ---
 name: 🐛 Bug Report
 about: Submit a bug report if something isn't working
-title: "🐛[Bug]"
+title: "🐛 "
 labels: 'type: bug 🐛'
 ---
 

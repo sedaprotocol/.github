@@ -1,7 +1,7 @@
 ---
 name: ♻️ Refactor
 about: Submit a new feature request
-title: "♻️[Refactor]"
+title: "♻️ "
 labels: 'type: refactor ♻️'
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: ✨ Feature
 about: Submit a new feature request
-title: "✨[Feat]"
+title: "✨ "
 labels: 'type: feature ✨'
 ---
 
