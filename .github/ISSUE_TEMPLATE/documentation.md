@@ -11,5 +11,3 @@ labels: 'type: documentation 📚'
     Did you find a mistake in the documentation?
     Is there missing documentation?
 -->
-
-(Write your answer here.)

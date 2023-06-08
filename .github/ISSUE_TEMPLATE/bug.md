@@ -8,7 +8,7 @@ labels: 'type: bug 🐛'
 ## 🐛 Bug Report
 
 <!--
-    What's the bug in **the-repo-name** that you found?
+    What's the bug that you found?
     How serious is this bug, and what is affected? What module(s) are concerned?
     Please don't assign a priority to the bug yourself. We will review the issue and assign one.
 -->
@@ -18,7 +18,7 @@ labels: 'type: bug 🐛'
 ## Steps to Reproduce
 
 <!--
-    How do I reproduce this issue?
+    How can we reproduce this issue?
 -->
 
 #### Code snippet to reproduce
@@ -40,10 +40,8 @@ labels: 'type: bug 🐛'
     What happened instead?
 -->
 
-(Write what you expected to happen here)
-
 ## Your Environment
 
-- <!-- the-repo-name Version -->
-- <!-- Language Versions -->
-- <!-- Computer OS and Version -->
+- <!-- Project version -->
+- <!-- Language versions -->
+- <!-- Computer OS and version -->

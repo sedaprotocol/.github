@@ -1,6 +1,6 @@
 ---
 name: ♻️ Refactor
-about: Submit a new feature request
+about: Submit a code cleanup request
 title: "♻️ "
 labels: 'type: refactor ♻️'
 ---
@@ -8,23 +8,23 @@ labels: 'type: refactor ♻️'
 ## ♻️ Refactor
 
 <!--
-    What needs to be refactored in **the-repo-name**?
+    What needs to be refactored?
 -->
-
-(Write your description here)
 
 ## Motivation
 
 <!--
-    Why should this code be refactored? Does it offer any user experience benefits? Does it make the code easier to work with? Is it a simple renaming?
+    Why should this code be refactored?
+    What are the benefits in terms of:
+        - Developer experience
+        - Code maintainability
+        - Code readability
 -->
-
-(Outline your motivation here)
 
 ## Implementation
 
 <!--
-    How does the code need to be changed? Is it simple enough to be a refactor, or should it be a feature?
+    How does the code need to be changed? How do we guarantee no functionality is impacted?
 -->
 
 **Are you willing to open a pull request?** (See

@@ -1,6 +1,6 @@
 ---
 name: 🔧 Chore
-about: Submit a new feature request
+about: Submit a behind-the-scenes change request
 title: "🔧 "
 labels: 'type: chore 🔧'
 ---
