@@ -27,8 +27,6 @@
 
 One or two sentence blurb to define the Repo.
 
-**NOTE** this repo adheres to the [GPLv3 license](LICENSE.md).
-
 To learn how to build a local version, please read [developing](DEVELOPING.md).
 To learn how to contribute, please read [contributing](CONTRIBUTING.md).
 
